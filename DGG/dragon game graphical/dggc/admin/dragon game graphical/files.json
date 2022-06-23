@@ -1,0 +1,98 @@
+{
+    "D:/": {
+        "dragon game graphical": {
+            "dggc": {
+                "destroy.py": "used for deleting all of the files",
+                "backup.py": "used for fixing errors in files",
+                "admin": {
+                    "drgaon game graphical": {
+                        "dragon-game-graphical.code-workspace": "a code workspace for the dragon game graphical",
+                        "local.settings.json": "this is for setting all of the settings for the .vscode file to the right frequency",
+                        "requirements.txt": "everything you need to download to play the dragon game graphical",
+                        "proxies.json": "contains every thing for the proxies (I guess!)",
+                        "__pycache__": {
+                            "settings.cpython-39.pyc": "the pyc for the settings",
+                            "monster.cpython-39.pyc": "the pyc for the moster",
+                            "Gideon.cpython-39.pyc": "the pyc for gideon",
+                            "potion.cpython-39.pyc": "the pyc for the potion",
+                            "Shop.cpython-39.pyc": "the pyc for the shop",
+                            "Tree.cpython-39.pyc": "the pyc for the tree",
+                            "orc.cpython-39.pyc": "the pyc for the orc"
+                        },
+                        ".funcignore": "the functions git should ignore",
+                        "desktop.ini": "I have no idea what the bianary is for, it does not show up in the explorer",
+                        "settings.py": "contains all of the settings for the dragon game graphical. for example: how fast gideon moves",
+                        ".gitignore": "the stuff git should ignore (I don't know about this file though because it does not show up in file explorer)",
+                        "files.json": "the file you are looking at right not for finding files fast (an their meanings!)",
+                        "monster.py": "all of the code for the monster",
+                        "Gideon.py": "contains all of the code for gideon",
+                        "host.json": "no idea what this is for",
+                        "potion.py": "contains all of the code for the potion",
+                        ".vscode": {
+                            "extentions.json": "specifies all of the extentions for the dragon game graphical",
+                            "settings.json": "specifies more settings for the dragon game graphical",
+                            "launch.json": "has all of the settings for when the user opens the dragon game graphical",
+                            "tasks.json": "sees what the oporation system that the dragon game graphical is running on"
+                        },
+                        "Shop.py": "has all of the code for the shop",
+                        "Tree.py": "has all of the code for the tree",
+                        "DGG.py": "the main file for the dragon game graphical",
+                        "orc.py": "all of the code for the orc",
+                        ".venv": {
+                            "pyvenv.cfg": "no idea what this is for!",
+                            "Include": {},
+                            "Scripts": {
+                                "activate-global-python-argcomplete": "no idea what this is for!",
+                                "fixup_automl_v1_keywords.py": "just so you know, I will have no idea what the next about 100 files do!",
+                                "easy_install-3.9.exe": "maby somthing for installing python?",
+                                "django-admin.exe": "a thing for running the dgango in admin mode",
+                                "easy_install.exe": "another thing for installing python?",
+                                "chardetect.exe": "maby something for detecting wrong characters",
+                                "deactivate.bat": "probably a fiel for deactivating somthing",
+                                "activate.bat": "this neither",
+                                "Activate.ps1": "a powershell file for activating somthing",
+                                "__pycache__": {},
+                                "epylint.exe": "I have no idea what this is for",
+                                "ativate": "for activating all of the stuff in the file",
+                                "f2py.py": "I be t if you found the meaning of f2 you could find out what this is!"
+                            },
+                               "share": {
+                                "jupyter": {
+                                    "labextentions": {
+                                    },
+                                        "k3d": {
+                                            "snapshot_standalone.txt": "a standalone snapshot?",
+                                            "snapshot_online.txt": "an online snapshot maby?",
+                                            "extentions.js": "a javascript file for running the extentions",
+                                            "standalone.js": "a standalone maby?",
+                                            "index.js.map": "no idea what this is for",
+                                            "index.js": "usaly this is a homepage on a html site"
+                                        }
+                                    },
+                                    "nbconvert": {},
+                                    "kernels": {},
+                                    "lab": {}
+                                },
+                                "man": {
+                                    "ipython.1.gz": "no idea what this is for!"
+                                }
+                            },
+                            "etc": {
+                                "jypiter-datawidgets.json": "the jupyter data widgets",
+                                "k3d_extentions.json": "the k3d extentions",
+                                "widgetsnbextension.json": "the widget extentions?"
+                            },
+                            "Lib": {}
+                        }
+                    }
+                }
+            }
+        },
+        "user guide.txt": ".txt file for helping the user with using the dragon game graphical",
+        "images": {
+            "bmp": {},
+            "gif": {}
+        },
+        "run.py": "a file for running the dragon game graphical",
+        "audio": {}
+    }
